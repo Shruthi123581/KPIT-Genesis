@@ -1,0 +1,11 @@
+im	1
+pot	1
+betty	1
+bot	2
+how	2
+are	2
+you	2
+doing	2
+hi	2
+shruthi	2
+hey	2

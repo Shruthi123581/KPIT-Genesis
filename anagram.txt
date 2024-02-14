@@ -1,0 +1,10 @@
+Im pot betty bot bot
+how are you doing
+hi shruthi
+how are you doing
+hi shruthi
+hey
+hey
+
+
+create a class Car with attributes make, model, year. Include a method named display_info that prints the car information. create a object of the class and call display_info method. Enhance the car class by adding calculate_depreciation method that takes number of years as input and returns depreciated value of the car. create an object of the class, display its information and calculate and print its depreciated value after 5 years
